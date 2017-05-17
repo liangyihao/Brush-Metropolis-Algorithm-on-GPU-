@@ -4,3 +4,5 @@ is an efficient implementation of Canonical Monte Carlo simulation for N-body sy
 Our method takes advantage of the GPU Single Instruction, Multiple Data (SIMD) architectures, and adopts the sequential updating scheme of Metropolis algorithm. It makes no approximation in the computation of energy, and reaches a remarkable 440-fold speedup, compared with the serial implementation on CPU. 
 
 Here we only present the main code of this method. This code is in CUDA programming language and is available on NVIDIA Tesla K20 and higher.
+
+We hope this code may be helpful.
