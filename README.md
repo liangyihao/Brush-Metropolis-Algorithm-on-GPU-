@@ -6,3 +6,8 @@ Our method takes advantage of the GPU Single Instruction, Multiple Data (SIMD) a
 Here we only present the main code of this method. This code is in CUDA programming language and is available on NVIDIA Tesla K20 and higher.
 
 We hope this code may be helpful.
+
+                                    Yihao Liang
+                                    Ph.D candidate
+                                    School of Physics and Astronomy and Institute of Natural Sciences
+                                    Shanghai Jiao Tong University
