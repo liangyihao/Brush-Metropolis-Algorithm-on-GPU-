@@ -11,4 +11,3 @@ We hope this code may be helpful.
                                     Ph.D candidate
                                     School of Physics and Astronomy and Institute of Natural Sciences
                                     Shanghai Jiao Tong University
-                                    Email: liangyihao_sjtu(AT)live.cn
